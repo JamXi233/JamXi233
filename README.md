@@ -1,2 +1,5 @@
-<img src="https://count.getloli.com/get/@JamXi233?theme=rule34" alt=":name" />
+欢迎来到我的主页！
+
+### 在玩的游戏：
+#### 原神
 <img src="https://genshin-card.getloli.com/16/282796368.png" alt="genshin-card" />
