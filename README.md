@@ -14,7 +14,7 @@ JamXi 是探索全栈开发的萌新。现为辽宁某大学的《学生》。
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Vue 3" src="https://img.shields.io/badge/-Vue-5BA17F?style=flat-square&logo=vue.js&logoColor=white" />
 </p>
-**设计相关**
+**Web相关**
 <p>
   <img alt="NodeJS" src="https://img.shields.io/badge/-Adobe Audition-9999FF?style=flat-square&logo=Adobe Audition&logoColor=white" />
   <img alt="NodeJS" src="https://img.shields.io/badge/-Adobe Dreamweaver-FF61F6?style=flat-square&logo=Adobe Dreamweaver&logoColor=white" />
