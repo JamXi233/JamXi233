@@ -24,7 +24,7 @@ iOS开发
 </p>
 **环境**
 <p>
-  <img alt="Windows" src="https://img.shields.io/badge/-Windows-009?style=flat-square&logo=windows&logoColor=white />
+  <img alt="Windows" src="https://img.shields.io/badge/-Windows-009?style=flat-square&logo=windows&logoColor=white" />
   <img alt="macOS" src="https://img.shields.io/badge/-macOS-333?style=flat-square&logo=apple&logoColor=white" />
   <img alt="vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff" />
   <img alt="nvim" src="https://img.shields.io/badge/NeoVim-649047?style=flat-square&logo=neovim&logoColor=ffffff" />
