@@ -14,7 +14,9 @@ JamXi 是探索全栈开发的萌新。现为辽宁某大学的《学生》。
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Vue 3" src="https://img.shields.io/badge/-Vue-5BA17F?style=flat-square&logo=vue.js&logoColor=white" />
 </p>
-**Web相关**
+
+**设计相关**
+
 <p>
   <img alt="NodeJS" src="https://img.shields.io/badge/-Adobe Audition-9999FF?style=flat-square&logo=Adobe Audition&logoColor=white" />
   <img alt="NodeJS" src="https://img.shields.io/badge/-Adobe Dreamweaver-FF61F6?style=flat-square&logo=Adobe Dreamweaver&logoColor=white" />
@@ -27,15 +29,21 @@ JamXi 是探索全栈开发的萌新。现为辽宁某大学的《学生》。
   <img alt="NodeJS" src="https://img.shields.io/badge/--?style=flat-square&logo=&logoColor=white" />
   <img alt="NodeJS" src="https://img.shields.io/badge/--?style=flat-square&logo=&logoColor=white" />
 </p>
+
 **后端相关**
+
 <p>
   <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
+
 **iOS开发**
+
 <p>
   <img alt="SwiftUI" src="https://img.shields.io/badge/-SwiftUI-EB543A?style=flat-square&logo=swift&logoColor=white" />
 </p>
+
 **环境**
+
 <p>
   <img alt="Windows" src="https://img.shields.io/badge/-Windows-009?style=flat-square&logo=windows&logoColor=white" />
   <img alt="macOS" src="https://img.shields.io/badge/-macOS-333?style=flat-square&logo=apple&logoColor=white" />
