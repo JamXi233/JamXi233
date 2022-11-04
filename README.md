@@ -14,11 +14,11 @@ Web相关
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Vue 3" src="https://img.shields.io/badge/-Vue-5BA17F?style=flat-square&logo=vue.js&logoColor=white" />
 </p>
-后端相关
+**后端相关**
 <p>
   <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
-iOS开发
+**iOS开发**
 <p>
   <img alt="SwiftUI" src="https://img.shields.io/badge/-SwiftUI-EB543A?style=flat-square&logo=swift&logoColor=white" />
 </p>
@@ -29,3 +29,7 @@ iOS开发
   <img alt="vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff" />
   <img alt="nvim" src="https://img.shields.io/badge/NeoVim-649047?style=flat-square&logo=neovim&logoColor=ffffff" />
 </p>
+
+------------
+
+<p align=center><strong>聞こえるはずの声</strong></p>
