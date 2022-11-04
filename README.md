@@ -39,7 +39,7 @@ JamXi 是探索全栈开发的萌新。现为辽宁某大学的《学生》。
   <img alt="Windows" src="https://img.shields.io/badge/-Windows-009?style=flat-square&logo=windows&logoColor=white" />
   <img alt="macOS" src="https://img.shields.io/badge/-macOS-333?style=flat-square&logo=apple&logoColor=white" />
   <img alt="Xcode" src="https://img.shields.io/badge/-Xcode-1876e4?style=flat-square&logo=xcode&logoColor=white" />
-  <img alt="PyCharm" src="https://img.shields.io/badge/-Xcode-000000?style=flat-square&logo=PyCharm&logoColor=white" />
+  <img alt="PyCharm" src="https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white" />
   <img alt="Android Studio" src="https://img.shields.io/badge/-Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white" />
   <img alt="vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff" />
   <img alt="nvim" src="https://img.shields.io/badge/NeoVim-649047?style=flat-square&logo=neovim&logoColor=ffffff" />
