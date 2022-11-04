@@ -1,4 +1,4 @@
-# 欢迎来到我的主页！![](https://visitor-badge.laobi.icu/badge?page_id=Innei.readme) [![wakatime](https://wakatime.com/badge/user/9213dc96-df0d-4e66-b0bb-50f9e04e988c.svg)](https://wakatime.com/@9213dc96-df0d-4e66-b0bb-50f9e04e988c)
+# 欢迎来到我的主页！![](https://visitor-badge.laobi.icu/badge?page_id=Innei.readme) [![wakatime](https://wakatime.com/badge/user/af8fe07e-a3e2-4af0-8a29-11b9073f6854.svg)](https://wakatime.com/@af8fe07e-a3e2-4af0-8a29-11b9073f6854)
 
 JamXi 是探索全栈开发的萌新。现为辽宁某大学的《学生》。
 
