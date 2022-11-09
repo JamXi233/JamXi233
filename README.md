@@ -1,4 +1,4 @@
-# 欢迎来到我的主页！![](https://visitor-badge.laobi.icu/badge?page_id=JamXi233.readme) [![wakatime](https://wakatime.com/badge/user/af8fe07e-a3e2-4af0-8a29-11b9073f6854.svg?)](https://wakatime.com/@af8fe07e-a3e2-4af0-8a29-11b9073f6854?)
+# 欢迎来到我的主页！![](https://visitor-badge.laobi.icu/badge?page_id=JamXi233.readme)
 
 JamXi 是探索全栈开发的萌新。现为辽宁某大学的《学生》。
 
