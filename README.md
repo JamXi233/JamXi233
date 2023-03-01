@@ -2,11 +2,6 @@
 
 JamXi 是探索全栈开发的萌新。现为辽宁某大学的《学生》。
 
-# 我的原神档案:
-
-<img src="https://genshin-card.getloli.com/27/282796368.png" alt="genshin-card" />
-<img src="https://genshin-card.getloli.com/17/124931639.png" alt="genshin-card" />
-
 # 我会的东西：
 
 **Web相关**
