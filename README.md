@@ -16,7 +16,7 @@
   <img alt="Adobe Audition" src="https://img.shields.io/badge/-Adobe Audition-9999FF?style=flat-square&logo=Adobe Audition&logoColor=white" />
   <img alt="Adobe Dreamweaver" src="https://img.shields.io/badge/-Adobe Dreamweaver-FF61F6?style=flat-square&logo=Adobe Dreamweaver&logoColor=white" />
   <img alt="Adobe Photoshop" src="https://img.shields.io/badge/-Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white" />
-  <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/-Adobe Premiere Pro-9999FF?style=flat-square&logo=Adobe Premiere Pro&logoColor=white" />
+  <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/-Adobe Premiere Pro-C9C9FF?style=flat-square&logo=Adobe Premiere Pro&logoColor=white" />
 </p>
 
 **后端相关**
