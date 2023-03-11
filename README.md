@@ -27,7 +27,7 @@
 
 **APP开发**
 <p>
-  <img alt="Android Studio" src="https://img.shields.io/badge/-Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white" />
+  <img alt="Android Studio" src="https://img.shields.io/badge/-Android Studio-2DCC74?style=flat-square&logo=Android Studio&logoColor=white" />
   <img alt="SwiftUI" src="https://img.shields.io/badge/-SwiftUI-EB543A?style=flat-square&logo=swift&logoColor=white" />
 </p>
 
