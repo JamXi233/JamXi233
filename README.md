@@ -22,6 +22,7 @@ JamXi 是探索全栈开发的萌新。现为辽宁某大学的《学生》。
 **后端相关**
 <p>
   <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="PHP" src="https://img.shields.io/badge/-PHP-7075a9?style=flat-square&logo=php&logoColor=white" />
 </p>
 
 **iOS开发**
