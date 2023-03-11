@@ -1,6 +1,6 @@
 # 欢迎来到我的主页！![](https://visitor-badge.laobi.icu/badge?page_id=JamXi233.readme)
 
-JamXi 是探索全栈开发的萌新。现为辽宁某大学的《学生》。
+我是一名探索全栈开发的萌新。现为辽宁某大学的《学生》。
 
 # 我会的东西：
 
