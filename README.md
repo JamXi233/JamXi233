@@ -6,8 +6,8 @@
 
 **Web相关**
 <p>
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="Vue 3" src="https://img.shields.io/badge/-Vue-5BA17F?style=flat-square&logo=vue.js&logoColor=white" />
 </p>
 
@@ -25,8 +25,9 @@
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-7075a9?style=flat-square&logo=php&logoColor=white" />
 </p>
 
-**iOS开发**
+**APP开发**
 <p>
+  <img alt="Android Studio" src="https://img.shields.io/badge/-Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white" />
   <img alt="SwiftUI" src="https://img.shields.io/badge/-SwiftUI-EB543A?style=flat-square&logo=swift&logoColor=white" />
 </p>
 
@@ -36,7 +37,6 @@
   <img alt="macOS" src="https://img.shields.io/badge/-macOS-333?style=flat-square&logo=apple&logoColor=white" />
   <img alt="Xcode" src="https://img.shields.io/badge/-Xcode-1876e4?style=flat-square&logo=xcode&logoColor=white" />
   <img alt="PyCharm" src="https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white" />
-  <img alt="Android Studio" src="https://img.shields.io/badge/-Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white" />
   <img alt="vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff" />
   <img alt="nvim" src="https://img.shields.io/badge/NeoVim-649047?style=flat-square&logo=neovim&logoColor=ffffff" />
 </p>
