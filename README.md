@@ -1,46 +1,67 @@
-# 欢迎来到我的主页！![](https://visitor-badge.laobi.icu/badge?page_id=JamXi233.readme)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=JamXi233&show_icons=true&hide_border=true&icon_color=000&title_color=000&include_all_commits_disable=false&custom_title=JSG-JamXi&count_private=true">
 
-我是一名探索全栈开发的萌新。现为辽宁某大学的《学生》。
+# JamXi
 
-# 我会的东西：
+### 你好👋很高兴认识你
 
-**Web相关**
-<p>
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="Vue 3" src="https://img.shields.io/badge/-Vue-5BA17F?style=flat-square&logo=vue.js&logoColor=white" />
-</p>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=JamXi233&hide_border=true&title_color=000&layout=compact">
 
-**设计相关**
-<p>
-  <img alt="Adobe Audition" src="https://img.shields.io/badge/-Adobe Audition-9999FF?style=flat-square&logo=Adobe Audition&logoColor=white" />
-  <img alt="Adobe Dreamweaver" src="https://img.shields.io/badge/-Adobe Dreamweaver-FF61F6?style=flat-square&logo=Adobe Dreamweaver&logoColor=white" />
-  <img alt="Adobe Photoshop" src="https://img.shields.io/badge/-Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white" />
-  <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/-Adobe Premiere Pro-6969DF?style=flat-square&logo=Adobe Premiere Pro&logoColor=white" />
-</p>
+👨‍💻 我是一名来自中国辽宁的开发者，也是。出生于2002年，喜欢开发能够为人们带来便利的工具和软件。
+- 来自中国 / 2002年出生
+- zh-CN / en-US / ~~ja-JP~~ (在学了)
+- Programmer / Developer / Coder / Engineer
+- Apple Developer开发者计划的成员
 
-**后端相关**
-<p>
-  <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="PHP" src="https://img.shields.io/badge/-PHP-7075a9?style=flat-square&logo=php&logoColor=white" />
-</p>
+我是[JSG-LLC](https://jamsg.cn)的核心人员及创始者
 
-**APP开发**
-<p>
-  <img alt="Android Studio" src="https://img.shields.io/badge/-Android Studio-2DCC74?style=flat-square&logo=Android Studio&logoColor=white" />
-  <img alt="SwiftUI" src="https://img.shields.io/badge/-SwiftUI-EB543A?style=flat-square&logo=swift&logoColor=white" />
-</p>
+## 💾 正在使用的语言
 
-**环境**
-<p>
-  <img alt="Windows" src="https://img.shields.io/badge/-Windows-009?style=flat-square&logo=windows&logoColor=white" />
-  <img alt="macOS" src="https://img.shields.io/badge/-macOS-333?style=flat-square&logo=apple&logoColor=white" />
-  <img alt="Xcode" src="https://img.shields.io/badge/-Xcode-1876e4?style=flat-square&logo=xcode&logoColor=white" />
-  <img alt="PyCharm" src="https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white" />
-  <img alt="vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff" />
-  <img alt="nvim" src="https://img.shields.io/badge/NeoVim-649047?style=flat-square&logo=neovim&logoColor=ffffff" />
+![Android](https://img.shields.io/badge/-Android-3ddc84?style=flat-square&logo=android&logoColor=fff)
+![Batch](https://img.shields.io/badge/-Batch-4d4d4d?style=flat-square&logo=windows%20terminal&logoColor=fff)
+![C](https://img.shields.io/badge/-C-a8b9cc?style=flat-square&logo=C&logoColor=fff)
+![C++](https://img.shields.io/badge/-C%2b%2b-00599c?style=flat-square&logo=C%2b%2b&logoColor=fff)
+![CSS3](https://img.shields.io/badge/-CSS3-1572b6?style=flat-square&logo=CSS3&labelColor=1572b6)
+![HTML5](https://img.shields.io/badge/-HTML5-e34f26?style=flat-square&logo=HTML5&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=JavaScript&labelColor=f7df1e&logoColor=000)
+![Java](https://img.shields.io/badge/-Java-f80000?style=flat-square&logo=oracle&logoColor=fff)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7f52ff?style=flat-square&logo=kotlin&logoColor=fff)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=fff)
+![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=fff)
+![PHP](https://img.shields.io/badge/-PHP-777bb4?style=flat-square&logo=PHP&logoColor=fff)
+![Shell](https://img.shields.io/badge/-Shell-4eaa25?style=flat-square&logo=gnu%20bash&logoColor=fff)
+
+## 💻 所使用的系统
+
+![Windows 11 PW 22H2](https://img.shields.io/badge/Windows%2011%20PW%2022H2-00adef?style=flat-square&logo=windows&logoColor=ffffff)
+![Android S 12](https://img.shields.io/badge/Android%20S%2012-3ddc84?style=flat-square&logo=android&logoColor=ffffff)
+![iOS 16.3](https://img.shields.io/badge/iOS%2016.3-000000?style=flat-square&logo=iOS&logoColor=ffffff)
+![macOS 14 Ventura Beta](https://img.shields.io/badge/macOS%2014-000000?style=flat-square&logo=macOS&logoColor=ffffff)
+
+## 🔨 开源项目
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JamXi233&repo=SRTools)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JamXi233&repo=GenTools)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JamXi233&repo=ArkToolBox-Lite)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🛠️ 技术与开发工具
+<p align="center">
+	<img src="https://github.com/programmer-zhang/programmer-zhang/raw/main/images/html.svg" width="40" height="40" alt="html" />
+	<img src="https://github.com/programmer-zhang/programmer-zhang/raw/main/images/css.svg" width="40" height="40" alt="css" />
+	<img src="https://github.com/programmer-zhang/programmer-zhang/raw/main/images/javascript.svg" width="40" height="40" alt="javascript" />
+	<img src="https://github.com/programmer-zhang/programmer-zhang/raw/main/images/sass.svg" width="40" height="40" alt="sass" />
+	<img src="https://github.com/programmer-zhang/programmer-zhang/raw/main/images/vuejs.svg" width="40" height="40" alt="vue" />
+	<img src="https://github.com/programmer-zhang/programmer-zhang/raw/main/images/bootstrap.svg" width="40" height="40" alt="bootstrap" />
+	<img src="https://github.com/programmer-zhang/programmer-zhang/raw/main/images/nginx.svg" width="40" height="40" alt="nginx" />
+	<img src="https://github.com/programmer-zhang/programmer-zhang/raw/main/images/linux.svg" width="40" height="40" alt="linux" />
+	<img src="https://github.com/programmer-zhang/programmer-zhang/raw/main/images/mysql.svg" width="40" height="40" alt="mysql" />
+	<img src="https://github.com/programmer-zhang/programmer-zhang/raw/main/images/jenkins.svg" width="40" height="40" alt="jenkins" />
+	<img src="https://github.com/programmer-zhang/programmer-zhang/raw/main/images/postman.svg" width="40" height="40" alt="postman" />
+	<img src="https://github.com/programmer-zhang/programmer-zhang/raw/main/images/stack-overflow.svg" width="40" height="40" alt="stack-overflow" />
+	<img src="https://github.com/programmer-zhang/programmer-zhang/raw/main/images/google.svg" width="40" height="40" alt="google" />
+	<img src="https://github.com/programmer-zhang/programmer-zhang/raw/main/images/github.svg" width="40" height="40" alt="github" />
+	<img src="https://github.com/programmer-zhang/programmer-zhang/raw/main/images/git.svg" width="40" height="40" alt="git" />
 </p>
 
 ------------
 
 <p align=center><strong>聞こえるはずの声</strong></p>
+
