@@ -1,9 +1,11 @@
 
 # JamXi
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=JamXi233&show_icons=true&hide_border=true&icon_color=000&title_color=000&include_all_commits_disable=false&custom_title=JSG-JamXi&count_private=true">
+
 ### 你好👋很高兴认识你
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=JamXi233&show_icons=true&hide_border=true&icon_color=000&title_color=000&include_all_commits_disable=false&custom_title=JSG-JamXi&count_private=true">
+
 
 👨‍💻 我是一名来自中国辽宁的开发者，也是。出生于2002年，喜欢开发能够为人们带来便利的工具和软件。
 - 来自中国 / 2002年出生
