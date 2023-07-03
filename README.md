@@ -4,15 +4,14 @@
 
 ### 你好👋很高兴认识你
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=JamXi233&hide_border=true&title_color=000&layout=compact">
-
 👨‍💻 我是一名来自中国辽宁的开发者，也是。出生于2002年，喜欢开发能够为人们带来便利的工具和软件。
 - 来自中国 / 2002年出生
 - zh-CN / en-US / ~~ja-JP~~ (在学了)
 - Programmer / Developer / Coder / Engineer
 - Apple Developer开发者计划的成员
-
-我是[JSG-LLC](https://jamsg.cn)的核心人员及创始者
+- [JSG-LLC](https://jamsg.cn)的核心人员及创始者
+- 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=JamXi233&hide_border=true&title_color=000&layout=compact">
 
 ## 💾 正在使用的语言
 
@@ -20,6 +19,7 @@
 ![Batch](https://img.shields.io/badge/-Batch-4d4d4d?style=flat-square&logo=windows%20terminal&logoColor=fff)
 ![C](https://img.shields.io/badge/-C-a8b9cc?style=flat-square&logo=C&logoColor=fff)
 ![C++](https://img.shields.io/badge/-C%2b%2b-00599c?style=flat-square&logo=C%2b%2b&logoColor=fff)
+![C#](https://img.shields.io/badge/-C%23-55599c?style=flat-square&logo=C%2b%2b&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572b6?style=flat-square&logo=CSS3&labelColor=1572b6)
 ![HTML5](https://img.shields.io/badge/-HTML5-e34f26?style=flat-square&logo=HTML5&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=JavaScript&labelColor=f7df1e&logoColor=000)
