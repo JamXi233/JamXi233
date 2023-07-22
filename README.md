@@ -41,9 +41,9 @@
 ![macOS 14 Ventura Beta](https://img.shields.io/badge/macOS%2014-000000?style=flat-square&logo=macOS&logoColor=ffffff)
 
 ## 🔨 开源项目
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JamXi233&repo=SRTools)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JamXi233&repo=GenTools)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JamXi233&repo=ArkToolBox-Lite)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JamXi233&repo=SRTools)](https://github.com/JamXi233/SRTools)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JamXi233&repo=GenTools)](https://github.com/JamXi233/GenTools)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JamXi233&repo=ArkToolBox-Lite)](https://github.com/JamXi233/ArkToolBox-Lite)
 
 ## 🛠️ 技术与开发工具
 <p align="center">
