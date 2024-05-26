@@ -35,7 +35,7 @@
 
 ## 💻 所使用的系统
 ![Windows 11 PW 22H2](https://img.shields.io/badge/Windows%2011%20PW%2022H2-00adef?style=flat-square&logo=windows&logoColor=ffffff)
-![Android 14](https://img.shields.io/badge/Android%%2014-3ddc84?style=flat-square&logo=android&logoColor=ffffff)
+![Android 14](https://img.shields.io/badge/Android%2014-3ddc84?style=flat-square&logo=android&logoColor=ffffff)
 ![iOS 17.3.1](https://img.shields.io/badge/iOS%2017.3.1-000000?style=flat-square&logo=iOS&logoColor=ffffff)
 ![macOS 14.5 Ventura](https://img.shields.io/badge/macOS%2014-000000?style=flat-square&logo=macOS&logoColor=ffffff)
 
