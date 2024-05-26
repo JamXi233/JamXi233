@@ -36,12 +36,13 @@
 ## 💻 所使用的系统
 
 ![Windows 11 PW 22H2](https://img.shields.io/badge/Windows%2011%20PW%2022H2-00adef?style=flat-square&logo=windows&logoColor=ffffff)
-![Android S 12](https://img.shields.io/badge/Android%20S%2012-3ddc84?style=flat-square&logo=android&logoColor=ffffff)
-![iOS 16.3](https://img.shields.io/badge/iOS%2016.3-000000?style=flat-square&logo=iOS&logoColor=ffffff)
-![macOS 14 Ventura Beta](https://img.shields.io/badge/macOS%2014-000000?style=flat-square&logo=macOS&logoColor=ffffff)
+![Android 14](https://img.shields.io/badge/Android%%2014-3ddc84?style=flat-square&logo=android&logoColor=ffffff)
+![iOS 17.3.1](https://img.shields.io/badge/iOS%2017.3.1-000000?style=flat-square&logo=iOS&logoColor=ffffff)
+![macOS 14.5 Ventura](https://img.shields.io/badge/macOS%2014-000000?style=flat-square&logo=macOS&logoColor=ffffff)
 
 ## 🔨 开源项目
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JamXi233&repo=SRTools)](https://github.com/JamXi233/SRTools)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JamXi233&repo=WaveTools)](https://github.com/JamXi233/WaveTools)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JamXi233&repo=GenTools)](https://github.com/JamXi233/GenTools)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JamXi233&repo=ArkToolBox-Lite)](https://github.com/JamXi233/ArkToolBox-Lite)
 
