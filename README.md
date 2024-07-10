@@ -36,8 +36,8 @@
 ## 🔨 开源项目
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JamXi233&repo=SRTools)](https://github.com/JamXi233/SRTools)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JamXi233&repo=WaveTools)](https://github.com/JamXi233/WaveTools)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JamXi233&repo=ZenlessTools)](https://github.com/JamXi233/ZenlessTools)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JamXi233&repo=GenTools)](https://github.com/JamXi233/GenTools)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JamXi233&repo=ArkToolBox-Lite)](https://github.com/JamXi233/ArkToolBox-Lite)
 
 ## 🛠️ 技术与开发工具
 <p align="center">
