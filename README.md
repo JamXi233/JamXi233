@@ -33,12 +33,6 @@
 ![iOS 17.5.1](https://img.shields.io/badge/iOS%2017.5.1-000000?style=flat-square&logo=iOS&logoColor=ffffff)
 ![macOS 14.5 Ventura](https://img.shields.io/badge/macOS%2014-000000?style=flat-square&logo=macOS&logoColor=ffffff)
 
-## 🔨 开源项目
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JamXi233&repo=SRTools)](https://github.com/JamXi233/SRTools)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JamXi233&repo=WaveTools)](https://github.com/JamXi233/WaveTools)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JamXi233&repo=ZenlessTools)](https://github.com/JamXi233/ZenlessTools)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JamXi233&repo=GenTools)](https://github.com/JamXi233/GenTools)
-
 ## 🛠️ 技术与开发工具
 <p align="center">
 	<img src="https://github.com/programmer-zhang/programmer-zhang/raw/main/images/html.svg" width="40" height="40" alt="html" />
